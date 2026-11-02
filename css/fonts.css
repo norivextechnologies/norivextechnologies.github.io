@@ -1,0 +1,31 @@
+/* Switzer */
+@font-face {
+  font-family: 'Switzer';
+  src: url('../assets/fonts/ZK6SGYJI75L4KV6FUO7woff2.woff2') format('woff2');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Switzer';
+  src: url('../assets/fonts/4MOCOHOMXNON6Q7MDARwoff2.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Switzer';
+  src: url('../assets/fonts/676OG5YVJMWEHWICATXwoff2.woff2') format('woff2');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Switzer';
+  src: url('../assets/fonts/JMEXDGFZQ4TLZGGSRZCwoff2.woff2') format('woff2');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+
+
